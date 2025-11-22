@@ -12,6 +12,6 @@ https://www.kaggle.com/c/nyc-taxi-trip-duration/data
 Histogram Gradient Boosting Classifier:
 https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientBoostingClassifier.html
 
-## Part 1
+## Part 1: MNISTmini (comparing digits 2 and 3)
 
 Locally downlaod datasets into a `/data` directory
