@@ -6,3 +6,4 @@ pandas
 jupyter
 ipykernel
 xgboost
+seaborn
