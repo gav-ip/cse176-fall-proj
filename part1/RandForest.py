@@ -10,7 +10,7 @@ from scipy.io import loadmat
 # -----------------------------
 # 1. Load MNISTmini dataset
 # -----------------------------
-data_path = "MNISTmini.mat"
+data_path = "../data/MNISTmini.mat"
 mnist = loadmat(data_path)
 
 # Combine train and test features/labels
