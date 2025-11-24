@@ -4,19 +4,6 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.utils import shuffle
 
 def load_binary_digits(data_path, digit1, digit2, random_seed):
-    """
-    Loads MNISTmini dataset, filters for two specific digits, shuffles,
-    splits into train/val/test (1000 samples each), and standardizes features.
-    
-    Args:
-        data_path (str): Path to the .mat file.
-        digit1 (int): First digit to filter (mapped to 0).
-        digit2 (int): Second digit to filter (mapped to 1).
-        random_seed (int): Random seed for reproducibility.
-        
-    Returns:
-        tuple: (X_train, y_train, X_val, y_val, X_test, y_test)
-    """
     # Load the dataset
     mnist = loadmat(data_path)
 

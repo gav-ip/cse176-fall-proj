@@ -15,4 +15,4 @@ https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientB
 ## Part 1: MNISTmini (comparing digits 2 and 3)
 
 **VERY IMPORTANT:**
-Locally downlaod MNIST datasets from `project.pdf` into a `/data` directory
+Locally downlaod MNIST datasets from `project.pdf` by creating a `/data` folder in the root directory
