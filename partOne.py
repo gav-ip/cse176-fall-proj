@@ -2,6 +2,7 @@ import numpy as np
 from datasetFunc import filter_digits, generate_int
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import accuracy_score, classification_report
 from scipy.io import loadmat
 
 data = loadmat('MNISTmini.mat')
@@ -29,3 +30,13 @@ x_train, x_val, y_train, y_val = train_test_split(
 print(f"Final training set: {x_train.shape[0]} samples")
 print(f"Validation set: {x_val.shape[0]} samples")
 print(f"Test set: {x_test_full.shape[0]} samples")
+
+logistic_regr = LogisticRegression(solver = 'liblinear')
+logistic_regr.fit(x_train, y_train)
+
+validation_accuracy = accuracy_score(y_val, logistic_regr.predict(x_val))
+print(f"Validation Accuracy: {validation_accuracy:.4f}")
+
+y_test_pred = logistic_regr.predict(x_test_full)
+print("\nClassification Report (Test Set):")
+print(classification_report(y_test_full, y_test_pred))
