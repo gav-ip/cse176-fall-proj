@@ -1,6 +1,5 @@
 # cse176-fall-proj
 
-
 Links to all datasets + models:
 
 Credit Card Detection (Classification):
@@ -12,3 +11,8 @@ https://www.kaggle.com/c/nyc-taxi-trip-duration/data
 
 Histogram Gradient Boosting Classifier:
 https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientBoostingClassifier.html
+
+## Part 1: MNISTmini (comparing digits 2 and 3)
+
+**VERY IMPORTANT:**
+Locally downlaod MNIST datasets from `project.pdf` by creating a `/data` folder in the root directory
