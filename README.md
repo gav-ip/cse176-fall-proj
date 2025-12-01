@@ -3,6 +3,8 @@
 **VERY IMPORTANT:**
 Locally downlaod MNIST datasets from `project.pdf` by creating a `/data` folder in the root directory
 
+Link to datasets: [https://faculty.ucmerced.edu/mcarreira-perpinan/teaching/CSE176/Labs/datasets/](https://faculty.ucmerced.edu/mcarreira-perpinan/teaching/CSE176/Labs/datasets/)
+
 ---
 
 ### Part 1: MNISTmini (comparing digits 2 and 3)
@@ -18,8 +20,6 @@ Locally downlaod MNIST datasets from `project.pdf` by creating a `/data` folder 
 * description
 
 ---
-
-
 
 ### **Links to all datasets + models:**
 
