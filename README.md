@@ -1,6 +1,27 @@
 # cse176-fall-proj
 
-Links to all datasets + models:
+**VERY IMPORTANT:**
+Locally downlaod MNIST datasets from `project.pdf` by creating a `/data` folder in the root directory
+
+---
+
+### Part 1: MNISTmini (comparing digits 2 and 3)
+
+* description
+
+### Part 2: MNIST multiclass classification
+
+* description
+
+### Part 3: Multiclass or binary imbalanced classification, and regression
+
+* description
+
+---
+
+
+
+### **Links to all datasets + models:**
 
 Credit Card Detection (Classification):
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
@@ -11,8 +32,3 @@ https://www.kaggle.com/c/nyc-taxi-trip-duration/data
 
 Histogram Gradient Boosting Classifier:
 https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientBoostingClassifier.html
-
-## Part 1: MNISTmini (comparing digits 2 and 3)
-
-**VERY IMPORTANT:**
-Locally downlaod MNIST datasets from `project.pdf` by creating a `/data` folder in the root directory
