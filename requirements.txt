@@ -7,4 +7,3 @@ jupyter
 ipykernel
 xgboost
 seaborn
-haversine
