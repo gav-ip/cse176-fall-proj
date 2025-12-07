@@ -8,4 +8,5 @@ ipykernel
 xgboost
 seaborn
 plotly
-folium
+ipyleaflet
+statsmodels
