@@ -12,3 +12,4 @@ ipyleaflet
 statsmodels
 geopandas
 geodatasets
+geopy
