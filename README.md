@@ -21,14 +21,14 @@ Link to datasets: [https://faculty.ucmerced.edu/mcarreira-perpinan/teaching/CSE1
 
 ---
 
-### **Links to all datasets + models:**
+### **Links to part 3 datasets + models:**
 
 Credit Card Detection (Classification):
-https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+[https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 Taxi Trip Duration (Regression):
-https://www.kaggle.com/c/nyc-taxi-trip-duration/data
+[https://www.kaggle.com/c/nyc-taxi-trip-duration/data]()
 (Download data): kaggle competitions download -c nyc-taxi-trip-duration
 
 Histogram Gradient Boosting Classifier:
-https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientBoostingClassifier.html
+[https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientBoostingClassifier.html]()

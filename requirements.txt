@@ -10,3 +10,6 @@ seaborn
 plotly
 ipyleaflet
 statsmodels
+geopandas
+geodatasets
+geopy
