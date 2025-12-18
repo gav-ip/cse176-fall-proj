@@ -9,15 +9,16 @@ Link to datasets: [https://faculty.ucmerced.edu/mcarreira-perpinan/teaching/CSE1
 
 ### Part 1: MNISTmini (comparing digits 2 and 3)
 
-* description
+* Logistic regression and Random Forest algorithms on classifying digits 2 and 3
 
 ### Part 2: MNIST multiclass classification
 
-* description
+* XGBoost algoirthm on MNIST dataset
 
 ### Part 3: Multiclass or binary imbalanced classification, and regression
 
-* description
+* Taxi trip duration in NYC (REGRESSION)
+* Credit card fraud detection (CLASSIFICATION)
 
 ---
 
